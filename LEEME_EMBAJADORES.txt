@@ -1,0 +1,37 @@
+CAPA DE EMBAJADORES LIFE-NITRAZENS
+==================================
+
+Se ha añadido una capa visible por defecto con 11 pines:
+- Cuéllar
+- Padilla de Abajo
+- Villadiego
+- Aldeamayor de San Martín
+- Valladolid (PRAE)
+- Castronuño
+- Tabanera de Cerrato
+- Herrera de Pisuerga
+- Amayuelas de Abajo
+- Castrillo de Villavega
+- Palencia (ITAGRA.CT)
+
+FUNCIONAMIENTO
+- Pasa el cursor sobre un pin para ver su nombre.
+- Haz clic para abrir la ficha del punto.
+- Usa la casilla «Embajadores», abajo a la derecha, para mostrar u ocultar la capa.
+
+CRITERIO DE UBICACIÓN
+- En los pueblos, el pin marca aproximadamente el centro de la localidad.
+- En Valladolid y Palencia, el pin marca las sedes de PRAE e ITAGRA.CT.
+- No se muestran direcciones personales.
+
+ARCHIVOS AÑADIDOS O MODIFICADOS
+- index.html
+- css/qgis2web.css
+- data/Embajadores_5.js
+
+Para ver el mapa, abre index.html. Para publicarlo, sube la carpeta completa
+respetando su estructura de subcarpetas.
+
+ACTUALIZACIÓN V2
+- Los nombres permanentes de las zonas piloto se dibujan por delante de los pines.
+- Los pines de Herrera de Pisuerga y Castronuño se han recolocado en el centro de las localidades.
